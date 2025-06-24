@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iMsJT4sGC3QP_jNqTpH2-1" value="爬蟲" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="250" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iMsJT4sGC3QP_jNqTpH2-2" value="Docker建置" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="250" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
