@@ -7,8 +7,8 @@
         <mxCell id="vj-_aE5Fy5tXKld0EFDE-1" value="Tibame" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OP8Zx7TZnXacYfXv5dEU-1" value="1. 在自己的VS Code內創建Tibame資料夾&lt;div&gt;2. cd Tibame&lt;/div&gt;&lt;div&gt;3. code .&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="150" width="240" height="60" as="geometry" />
+        <mxCell id="OP8Zx7TZnXacYfXv5dEU-1" value="1. 在自己的VS Code內創建Tibame資料夾" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="165" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OP8Zx7TZnXacYfXv5dEU-3" value="&lt;div&gt;1. 移動路徑: &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cd Tibame&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 進入Tibame: &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;code .&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 在Tibame路徑下抓取repo:&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;git clone https://github.com/TibameSam/crawler&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. 建立此虛擬環境: &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;pipenv sync&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-380" y="240" width="300" height="170" as="geometry" />
